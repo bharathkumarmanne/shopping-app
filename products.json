@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "brandName": "Nutella",
+      "productName": "Nutella Hazelnut Spread with Cocoa",
+      "quantity": "500g",
+      "mrp": "250",
+      "price": "225",
+      "offer": "Flat 10% Offer",
+      "imgUrl": "images/nutella.jpg"
+    },
+    {
+      "id": 2,
+      "brandName": "Dettol",
+      "productName": "Dettol Skincare Germ Protection Handwash Liquid Soap Refill",
+      "quantity": "1500ml",
+      "mrp": "300",
+      "price": "200",
+      "offer": "Flat 50% Offer",
+      "imgUrl": "images/dettol.jpg"
+    },
+    {
+      "id": 3,
+      "brandName": "Horlicks",
+      "productName": "Horlicks Health and Nutrition drink",
+      "quantity": "500 g Pet Jar",
+      "mrp": "300",
+      "price": "285",
+      "offer": "Flat 5% Offer",
+      "imgUrl": "images/horlicks.jpg"
+    },
+    {
+      "id": 4,
+      "brandName": "Kissan",
+      "productName": "Kissan Mixed Fruit Jam",
+      "quantity": "1 kg",
+      "mrp": "250",
+      "price": "240",
+      "offer": "Flat 10 % Offer",
+      "imgUrl": "images/kissanJam.jpg"
+    },
+    {
+      "id": 5,
+      "brandName": "Lizol ",
+      "productName": "Lizol Disinfectant Floor Cleaner",
+      "quantity": "975ml",
+      "mrp": "180",
+      "price": "153",
+      "offer": "Flat 15% Offer",
+      "imgUrl": "images/lizol.jpg"
+    },
+    {
+      "id": 6,
+      "brandName": "Nestle",
+      "productName": "Nestle Everyday Dairy Whitener",
+      "quantity": "1 kg",
+      "mrp": "500",
+      "price": "450",
+      "offer": "Flat 10% Offer",
+      "imgUrl": "images/nestle.jpg"
+    },
+    {
+      "id": 7,
+      "brandName": "Nivea",
+      "productName": "Nivea Nourishing Body Lotion",
+      "quantity": "400ml",
+      "mrp": "339",
+      "price": "234",
+      "offer": "Flat 30% Offer",
+      "imgUrl": "images/nivea.jpg"
+    },
+    {
+      "id": 8,
+      "brandName": "Oats",
+      "productName": "Quaker Oats Pouch",
+      "quantity": "1kg",
+      "mrp": "150",
+      "price": "130",
+      "offer": "Flat 10% Offer",
+      "imgUrl": "images/oats.jpg"
+    },
+    {
+      "id": 9,
+      "brandName": "Sunsilk",
+      "productName": "Sunsilk Lusciously Thick and Long Shampoo",
+      "quantity": "650ml",
+      "mrp": "120",
+      "price": "110",
+      "offer": "Flat 5% Offer",
+      "imgUrl": "images/sunsilk.jpg"
+    },
+    {
+      "id": 10,
+      "brandName": "Nescafe",
+      "productName": "Coffee Powder",
+      "quantity": "200 Gm",
+      "mrp": "200",
+      "price": "190",
+      "offer": "Flat 5% Offer",
+      "imgUrl": "images/nescafe.jpg"
+    },
+    {
+      "id": 11,
+      "brandName": "Surf Excel ",
+      "productName": "Washing Powder",
+      "quantity": "500 Gm",
+      "mrp": "250",
+      "price": "230",
+      "offer": "Flat 10% Offer",
+      "imgUrl": "images/surfExel.jpg"
+    },
+    {
+      "id": 12,
+      "brandName": "Amul",
+      "productName": "Amul Butter - Pasteurised",
+      "quantity": "200 Gms",
+      "mrp": "150",
+      "price": "140",
+      "offer": "Flat 15% Offer",
+      "imgUrl": "images/butter.jpg"
+    }
+  ]
